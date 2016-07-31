@@ -1,0 +1,5 @@
+<%@ page pageEncoding="UTF-8"%>
+<footer class="container">
+	<a href="http://bookonspring.com">BookOnSpring</a>
+</footer>
+<script src="/webjars/jquery/jquery.min.js"></script>
